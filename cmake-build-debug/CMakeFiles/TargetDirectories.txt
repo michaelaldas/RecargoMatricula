@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/recargomatricula/cmake-build-debug/CMakeFiles/recargomatricula.dir
+C:/Users/ALDAS/CLionProjects/recargomatricula/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/recargomatricula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
